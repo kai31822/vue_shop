@@ -1,10 +1,10 @@
 # 說明
 
-    此demo網頁尚在開發階段，部分功能尚未實作完成。
+   此demo網頁尚在開發階段，部分功能尚未實作完成。
 
-    網址：[https://kai31822.github.io/vue_shop/](https://kai31822.github.io/vue_shop/)
+   網址：https://kai31822.github.io/vue_shop/](https://kai31822.github.io/vue_shop/
 
-    源碼：https://github.com/kai31822/shopsite
+   源碼：https://github.com/kai31822/shopsite
 
 ---
 
@@ -12,27 +12,27 @@
 
 ## 回到主頁：
 
-![Untitled](https://www.notion.so/1-7806b76ae0644449a7649f2b5576cc01#214b8920547b4e5189ada79f12ba882d)
+![Untitled](https://drive.google.com/file/d/1pcBr4gEhho9wXSDLN0pVBMqzHbpQYytP/view?usp=sharing)
 
 ## 分類選單：
 
-![Untitled](https://www.notion.so/1-7806b76ae0644449a7649f2b5576cc01#3debdb7523094e918d430643068aa38a)
+![Untitled](https://drive.google.com/file/d/1qBdtvNT-353XKl3tgUcNrAfcdTpBZbbQ/view?usp=sharing)
 
 ## 主頁的焦點商品：
 
-![Untitled](https://www.notion.so/1-7806b76ae0644449a7649f2b5576cc01#7f564f89712c48ad9d36d8574eb66abb)
+![Untitled](https://drive.google.com/file/d/1kMaWNata4hl6i1i_G7_pwAY_AlAW3vpx/view?usp=sharing)
 
 ## 輪播旁的的商品區塊:
 
-![Untitled](https://www.notion.so/1-7806b76ae0644449a7649f2b5576cc01#75421b7ccf63458aa0bf8ae751b054c4)
+![Untitled](https://drive.google.com/file/d/13N4YYTIx1vPh7nb3OYX-jSlZLDFoMaJw/view?usp=sharing)
 
 ## 分類裡的所有產品:
 
-![Untitled](https://www.notion.so/1-7806b76ae0644449a7649f2b5576cc01#dc3ad461993948609625b799db047b0c)
+![Untitled](https://drive.google.com/file/d/1lsmGDK0bGRNzdnoTtdmcDbtw0RNVA7Q4/view?usp=sharing)
 
 ## 回到最上面:
 
-![Untitled](https://www.notion.so/1-7806b76ae0644449a7649f2b5576cc01#2b5926a37f81478db3535d7e3692c434)
+![Untitled](https://drive.google.com/file/d/150GI1KksAPX1PE7eoXywMiH_n8d62fZG/view?usp=sharing)
 
 ---
 
