@@ -2,7 +2,7 @@
 
    此demo網頁尚在開發階段，部分功能尚未實作完成。
 
-   網址：https://kai31822.github.io/vue_shop/](https://kai31822.github.io/vue_shop/
+   網址：https://kai31822.github.io/vue_shop/
 
    源碼：https://github.com/kai31822/shopsite
 
