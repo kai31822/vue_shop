@@ -1,6 +1,9 @@
 const express = require('express');
 const bodyParser = require('body-parser');
-const apiRoutes = require('./routers/users');
+//import Routes
+const userRoutes = require('./routes/users');
+const postRoutes = require('./routes/post');
+//import DBconnecter
 const { sequelize, connectToDB } = require('./connectToDB');
 
 //
@@ -13,9 +16,10 @@ const PORT = process.env.PORT || 3000;
 \********************/
 app.use(bodyParser.json());
 app.use(express.urlencoded({ extended: false }));
-app.use('/api', apiRoutes);
+app.use('/user', userRoutes);
+app.use('/post', postRoutes);
 /********************\
-        Routes
+      IndexRoutes
 \********************/
 //get
 app.get('/', (request, response) => {

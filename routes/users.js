@@ -1,6 +1,5 @@
 const express = require('express');
 const sequelize = require('sequelize');
-// const db = require('../models');
 const router = express.Router();
 /********************\
      Models
@@ -19,7 +18,7 @@ router.get('/:id', (req, res) => {
 /********************\
        POST
 \********************/
-router.post('/user/:id', (req, res) => {
+router.post('/:id', (req, res) => {
     res.json({ message: `Hello${req.params.id}` });
     // //寫入對映欄位名稱的資料內容;
     // User.create({
@@ -35,13 +34,13 @@ router.post('/user/:id', (req, res) => {
 /********************\
         PUT
 \********************/
-router.put('/user/:id', (req, res) => {
+router.put('/:id', (req, res) => {
     res.json({ message: `Update${req.params.id}` });
 });
 /********************\
-        FELETE
+        DELETE
 \********************/
-router.delete('/user/:id', (req, res) => {
+router.delete('/:id', (req, res) => {
     res.json({ message: `Delete${req.params.id}` });
 });
 
