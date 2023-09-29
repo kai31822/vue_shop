@@ -12,8 +12,13 @@ module.exports = {
             content: {
                 type: Sequelize.STRING,
             },
-            UserId: {
+            userid: {
                 type: Sequelize.INTEGER,
+                allowNull: false,
+                references: {
+                    model: 'users', // 引用的 table
+                    key: 'id', // 引用的欄位
+                },
             },
             createdAt: {
                 allowNull: false,

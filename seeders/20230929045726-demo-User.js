@@ -17,6 +17,12 @@ module.exports = {
                     userName: 'admin',
                     email: '1example.com',
                 },
+                {
+                    firstName: 'test2',
+                    lastName: 'test03',
+                    userName: 'user2',
+                    email: '2example.com',
+                },
             ],
             {}
         );
