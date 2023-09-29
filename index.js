@@ -1,7 +1,7 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const apiRoutes = require('./routers/users');
-const { sequelize, connectToDB } = require('./models/connectToDB');
+const { sequelize, connectToDB } = require('./connectToDB');
 
 //
 const app = express();
@@ -21,6 +21,7 @@ app.get('/', (request, response) => {
     // response.status(200).send('Hello from Homepage');
     response.status(200).json({ message: 'Hello from Homepage' });
 });
+
 /********************\
     Start listing
 \********************/
